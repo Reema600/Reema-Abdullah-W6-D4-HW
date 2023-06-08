@@ -1,6 +1,7 @@
 
-import { Box, Flex, HStack, Image, Text, chakra, Link } from "@chakra-ui/react";
+import { Box, Flex, HStack, Image, Text, chakra } from "@chakra-ui/react";
 import { FaEnvelope, FaMapPin, FaSuitcase } from "react-icons/fa";
+import { Link } from 'react-router-dom'
 import Footer from "./Footer.Jsx";
 export default function Home() {
   return (

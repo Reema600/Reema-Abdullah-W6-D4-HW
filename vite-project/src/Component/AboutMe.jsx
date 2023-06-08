@@ -7,7 +7,7 @@ export default function AboutMe() {
   return (
     <div>
         {/* <Route path='/about' element={<AboutMe/>}></Route> */}
-        <NavBar></NavBar>
+        {/* <NavBar></NavBar> */}
         {/* <Link to="/"></Link> */}
  <Flex
       bg="#edf3f8"
